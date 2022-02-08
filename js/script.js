@@ -1,2 +1,2 @@
-let x = 3+5;
+let x = 'Я ебу свиней';
 document.write(x);
