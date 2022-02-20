@@ -1,2 +1,2 @@
-let x = 'Я ебу коней';
-document.write(x);
+// let x = 'Я ебу коней';
+// document.write(x);
