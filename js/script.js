@@ -1,3 +1,3 @@
 "use strict";
-alert('Error');
+alert("Error");
 
