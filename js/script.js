@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 "use strict";
 
 // let age = prompt('Crjkmrj nt,t ktn','');
@@ -9,3 +10,6 @@
 // let value = true;
 
 // alert(typeof(value));
+=======
+
+>>>>>>> 8229d3c088a193521487e95376eba80a13bd6ca7
