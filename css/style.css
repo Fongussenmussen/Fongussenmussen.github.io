@@ -98,6 +98,12 @@ nav {
 	border: none;
 	background-color: #00897b;
 }
+.project__button11:hover {
+	background-color: #00897b;
+	color: #fff;
+	box-shadow: 0 10px 16px 10px #c6dbd8; 
+	transition: 0.3s;
+}
 .fas.fa-arrow-down {
 	color: #fff;
 	display: block;
